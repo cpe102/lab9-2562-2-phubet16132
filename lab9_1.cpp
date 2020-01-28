@@ -43,7 +43,7 @@ int main(){
 	}while(grade!='0');
 	
 	
-	cout << "In total ? students.";
+	cout << "In total "<< i << "students.";
 	cout << "A = " << count[0] <<",";
 	cout << "B = " << count[1] <<",";	
 	cout << "C = " << count[2] <<",";
