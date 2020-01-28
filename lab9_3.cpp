@@ -30,6 +30,7 @@ int main(){
 	cout << "Mean = "<<mean<<endl;
 	cout << "Standard deviation = "<<SD<<endl;
 	
+	source.close();
 	return 0;
 	
 }
